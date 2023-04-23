@@ -6,7 +6,7 @@ Output: composite 6 found at index: 4
 */
 
 import java.io.*;
-class Program{
+class Program3{
 
 	static void compositeNum(int n){
 		int temp = n;

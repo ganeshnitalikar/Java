@@ -5,7 +5,7 @@ Output: 255
 */
 
 import java.io.*;
-class Program6{
+class Program9{
 	static void secondMaxNum(int[] arr , int size){
 		int temp;
 		for(int i = 0 ; i<size; i++){

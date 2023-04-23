@@ -7,7 +7,7 @@ Output: Perfect no 496 found at index: 3
 
 
 import java.io.*;
-class Program{
+class Program5{
 	static boolean perfectNum(int n){
 		int temp =n;
 		int sum = 0;

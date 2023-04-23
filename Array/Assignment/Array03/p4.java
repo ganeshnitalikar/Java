@@ -6,7 +6,7 @@ Output: prime no 53 found at index: 5
 */
 
 import java.io.*;
-class Program{
+class Program4{
 
 	static void primeNum(int n){
 		int temp = n;

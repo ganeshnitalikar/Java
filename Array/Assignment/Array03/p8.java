@@ -6,7 +6,7 @@ Output: Armstrong no 153 found at index: 4
  */
 
 import java.io.*;
-class Program6{
+class Program8{
 	static boolean armstrongNum(int n){
 		int temp =n;
 		int sum = 0;

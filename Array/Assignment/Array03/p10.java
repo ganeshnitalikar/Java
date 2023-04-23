@@ -5,7 +5,7 @@ Output: 15
 */
 
 import java.io.*;
-class Program6{
+class Program10{
 	static void secondMinNum(int[] arr , int size){
 		int temp;
 		for(int i = 0 ; i<size; i++){

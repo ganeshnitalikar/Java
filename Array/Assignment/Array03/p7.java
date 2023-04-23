@@ -6,7 +6,7 @@ Output: Strong no 145 found at index: 5
 */
 
 import java.io.*;
-class Program{
+class Program7{
 	static boolean strongNum(int n){
 		int temp =n;
 		int sum = 0;
