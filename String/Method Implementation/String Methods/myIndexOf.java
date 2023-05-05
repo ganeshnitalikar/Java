@@ -18,10 +18,13 @@ class StringDemo {
         }else{
             return -1;
         }
+	return -1;
     }
     public static void main(String[] args) {
         String str = "Ganesh";
         System.out.println(myIndexOf(str,'n',2));
+        System.out.println(myIndexOf(str,'n',3));
+        System.out.println(myIndexOf(str,'e',3));
         System.out.println(myIndexOf(str,'n',5));
     }
 }
