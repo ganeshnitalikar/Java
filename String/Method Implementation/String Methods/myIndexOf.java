@@ -1,6 +1,6 @@
+//implementation of IndexOf
 //
-//
-//
+
 
 
 class StringDemo {
@@ -8,12 +8,10 @@ class StringDemo {
         char arr[] = str.toCharArray();
         
         if(start>=0 && start<arr.length){
-            int j = 0;
             for(int i = start ; i<arr.length; i++){
                 if(arr[i]==ch){
-                    return j+i;
-                }
-		j++;
+                    return i;
+               }
             }
         }else{
             return -1;
